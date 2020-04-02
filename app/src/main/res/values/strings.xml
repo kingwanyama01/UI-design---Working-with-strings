@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Uber</string>
+    <string name="title">KE RESTAURANT</string>
+    <string name="mail">Email...</string>
+    <string name="pass">Password...</string>
+    <string name="reg">Register</string>
+    <string name="log">Login</string>
+</resources>
